@@ -1,0 +1,10 @@
+.header{
+    background-color: #424141;
+    height: 50px;
+}
+.header-data{
+    color: #fff;
+    font-size: 1.4rem;
+    line-height: 50px;
+    margin-left: 7rem;
+}

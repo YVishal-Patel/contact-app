@@ -1,0 +1,28 @@
+.home-header-data{
+    /* margin: auto; */
+    font-size: 2rem;
+    width: 600px;
+    margin-left: 7rem;
+    margin-top: 2rem;
+}
+.btn-main{
+    padding: 0.4rem 0.9rem;
+    background: none;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    /* margin-left: 5rem; */
+}
+
+.btn-main:hover{
+    color: white;
+    background-color:#424141;
+
+}
+.table-main{
+    box-shadow: 1px 2px 4px 3px rgba(0,0,0,0.1) ;
+}
+.table-heading{
+    /* background-color: black; */
+    width: 100% !important;
+}
